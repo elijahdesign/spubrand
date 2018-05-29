@@ -1,0 +1,16 @@
+.logo-downloads {
+  margin: 20px 0 40px 0;
+  width: 100%;
+  float: left;
+  clear: both; }
+  .logo-downloads .logo-div {
+    width: 40%;
+    float: left;
+    margin-right: 5%; }
+    .logo-downloads .logo-div a {
+      font-size: 12px;
+      line-height: 18px;
+      margin-top: 10px; }
+
+.markdown-section .logo-downloads img {
+  margin: 0; }

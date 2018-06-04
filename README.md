@@ -19,11 +19,11 @@ Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s 
 
 <div class="logo-downloads">
 	<div class="logo-div">
-		![](.gitbook/assets/spu_logo_bw_rgb_600x350.png)
+		<img src="https://seattlepacific.gitbook.io/brand/assets/spu_logo_bw_rgb_600x350.png" alt="Seattle Pacific University on light logo">
 		<a href="#">Download EPS</a>
 	</div>
 	<div class="logo-div">
-		![](.gitbook/assets/spu_logo_bw_rev_rgb_600x350.jpg)
+		<img src="https://seattlepacific.gitbook.io/brand/gitbook/assets/spu_logo_bw_rev_rgb_600x350.jpg" alt="Seattle Pacific University on dark logo">
 		<a href="#">Download EPS</a>
 	</div>
 </div>

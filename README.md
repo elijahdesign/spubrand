@@ -5,9 +5,9 @@ description: >-
   possible punishment from the Brand Task Force.
 ---
 
-# Brand Look
+# Brand Guidelines
 
-## Seattle Pacific Logo
+## Logo
 
 Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s imperative that we protect it and use it correctly.
 
@@ -22,3 +22,5 @@ Logo 1 | Logo 2
 :----: | :----:
 ![on white](https://spu.edu/assets/logo-ver-1.png) | ![on dark](https://spu.edu/assets/logo-ver-2.png)
 <a href="#">Download EPS</a> | <a href="#">Download EPS</a>
+
+## Colors

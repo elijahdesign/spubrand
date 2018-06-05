@@ -17,22 +17,8 @@ Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s 
 * Make sure you give the logo some breathing room.
 * The ‘Seattle Pacific logo’ should only be used in isolation, never with words/logos/titles \(e.g. as a Twitter, Facebook, or Instagram avatar\).
 
-<div class="logo-downloads">
-	<div class="logo-div">
-		<img src="https://spu.edu/assets/logo-ver-1.png" alt="Seattle Pacific University on light logo">
-		<a href="#">Download EPS</a>
-	</div>
-	<div class="logo-div">
-		<img src="https://spu.edu/assets/logo-ver-2.png" alt="Seattle Pacific University on dark logo">
-		<a href="#">Download EPS</a>
-	</div>
-</div>
-
-Logo Ver. 1 | Logo Ver. 2
+Logo 1 | Logo 2
 ----------- | ------------
 ![on white](https://spu.edu/assets/logo-ver-1.png) | ![on dark](https://spu.edu/assets/logo-ver-2.png)
-
-![hot red \(only to be used with dark backgrounds\)](.gitbook/assets/spu_logo_hotred_rev_rgb_plumbackground.jpg)
-
-
-
+<a href="#">Download EPS</a> | <a href="#">Download EPS</a>
+| 'hot red' torch only to be used with dark backgrounds

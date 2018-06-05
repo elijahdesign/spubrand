@@ -5,9 +5,9 @@ description: >-
   possible punishment from the Brand Task Force.
 ---
 
-# Brand Look
+# Seattle Pacific Design System
 
-## Seattle Pacific Logo
+## Logo
 
 Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s imperative that we protect it and use it correctly.
 

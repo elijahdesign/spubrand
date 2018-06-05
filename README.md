@@ -28,6 +28,10 @@ Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s 
 	</div>
 </div>
 
+Logo Ver. 1 | Logo Ver. 2
+----------- | ------------
+![on white](https://spu.edu/assets/logo-ver-1.png) | ![on dark](https://spu.edu/assets/logo-ver-2.png)
+
 ![hot red \(only to be used with dark backgrounds\)](.gitbook/assets/spu_logo_hotred_rev_rgb_plumbackground.jpg)
 
 

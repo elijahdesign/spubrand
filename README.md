@@ -28,15 +28,15 @@ Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s 
 
 ## Visuals
 
-Our members are a huge part of the WeWork story. They add excitement and character to the space. For that reason, we always like to keep people in our pictures to tell the story of our community as often as possible.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 #### Photography
 
-We have a dedicated in-house team who make sure our images have a consistent look and feel. Approved photos are curated on [wework.com/press](http://wework.com/press), but if you need additional images or would like to request a specific photoshoot, please submit a request to the Brand team.
+We have a team who make sure our images have a consistent look and feel. Approved photos are curated on [smugmug](http://smugmug.com), but if you need additional images or would like to request a specific photoshoot, please submit a request to the University Communications team.
 
 #### Video
 
-All video projects are created by our regional marketing teams in partnership with the Brand team. Contact your Regional Marketing Manager or the WeWork Brand team for any video needs or questions.
+Video projects are typically outsourced. Contact the University Communications office for any video needs or questions.
 
 See our public video libraries below:
 

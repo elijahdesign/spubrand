@@ -5,9 +5,9 @@ description: >-
   possible punishment from the Brand Task Force.
 ---
 
-# Seattle Pacific Design System
+# Brand Look
 
-## Logo
+## Seattle Pacific Logo
 
 Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s imperative that we protect it and use it correctly.
 
@@ -17,8 +17,9 @@ Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s 
 * Make sure you give the logo some breathing room.
 * The ‘Seattle Pacific logo’ should only be used in isolation, never with words/logos/titles \(e.g. as a Twitter, Facebook, or Instagram avatar\).
 
-Logo 1 | Logo 2
------- | ------
-![on white](https://spu.edu/assets/logo-ver-1.png) | ![on dark](https://spu.edu/assets/logo-ver-2.png)
-<a href="#">Download EPS</a> | <a href="#">Download EPS</a>
-on light backgrounds | 'hot red' torch only to be used with dark backgrounds
+| Logo 1 | Logo 2 |
+| --- | --- |
+| ![on white](https://spu.edu/assets/logo-ver-1.png) | ![on dark](https://spu.edu/assets/logo-ver-2.png) |
+| [Download EPS](./) | [Download EPS](./) |
+| on light backgrounds | 'hot red' torch only to be used with dark backgrounds |
+

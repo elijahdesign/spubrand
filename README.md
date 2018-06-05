@@ -18,6 +18,7 @@ Our logo is a sacred part of the Seattle Pacific brand. Because of that, it’s 
 * The ‘Seattle Pacific logo’ should only be used in isolation, never with words/logos/titles \(e.g. as a Twitter, Facebook, or Instagram avatar\). The only exception is when used with sub-brands (<a href="#">see sub-brand section</a>).
 * The 'hot red' torch is only to be used with dark backgrounds
 
-on white | on dark
---- | ---
-![<a href="#">Download EPS</a>](https://spu.edu/assets/logo-ver-1.png) | ![<a href="#">Download EPS</a>](https://spu.edu/assets/logo-ver-2.png)
+Logo 1 | Logo 2
+:----: | :----:
+![on white](https://spu.edu/assets/logo-ver-1.png) | ![on dark](https://spu.edu/assets/logo-ver-2.png)
+<a href="#">Download EPS</a> | <a href="#">Download EPS</a>
